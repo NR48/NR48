@@ -1,6 +1,6 @@
 # Nicolas Rivas
 
-##About me
+## About me
 
 I'm gay
 
