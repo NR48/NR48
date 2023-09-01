@@ -5,52 +5,20 @@
 - **LinkedIn:** https://www.linkedin.com/in/nicol%C3%A1s-rivas-033a31274
 
 ## Resumen
-Soy un [tu profesión o título] con experiencia en [tu área de experiencia]. Mi objetivo es [tu objetivo profesional en una oración].
-
-## Experiencia Laboral
-### [Nombre de la Empresa] - [Fecha de inicio] a [Fecha de finalización (o "Actualidad" si es el caso)]
-- **Cargo:** [Tu cargo o posición]
-- **Descripción:**
-  - Detalle tus responsabilidades y logros clave en este puesto.
-
-### [Nombre de la Empresa] - [Fecha de inicio] a [Fecha de finalización (o "Actualidad" si es el caso)]
-- **Cargo:** [Tu cargo o posición]
-- **Descripción:**
-  - Detalle tus responsabilidades y logros clave en este puesto.
+Soy un Alumno con experiencia en programacion. Mi objetivo es [tu objetivo profesional en una oración].
 
 ## Educación
-### [Nombre de la Universidad] - [Fecha de inicio] a [Fecha de finalización]
-- **Título:** [Tu título universitario]
-- **Descripción:**
-  - Menciona cualquier logro académico o proyecto destacado.
+### Escuela ProA Tecnica - 2017 a 2023
+- **Título:** Tecnico en programacion
 
 ## Habilidades
-- Habilidad 1
-- Habilidad 2
-- Habilidad 3
-- ...
+- Desarrollo web (HTML, CSS, JS)
+- Programacion
+- Gestion de Base de Datos
 
 ## Idiomas
-- Idioma 1: Nivel
-- Idioma 2: Nivel
-
-## Proyectos Destacados
-### [Nombre del Proyecto] - [Fecha de inicio] a [Fecha de finalización (o "Actualidad" si es el caso)]
-- **Descripción:**
-  - Breve descripción del proyecto.
-  - Tecnologías utilizadas.
-  - Logros o resultados destacados.
-
-## Certificaciones
-- [Nombre de la Certificación] - [Fecha de obtención]
-- [Nombre de la Certificación] - [Fecha de obtención]
+- Español: Nativo
+- Ingles: Medio
 
 ## Intereses
 - Lista tus intereses y pasatiempos relevantes.
-
-## Referencias
-Disponibles a solicitud.
-
----
-
-Recuerda personalizar este currículum con tu información personal y profesional. Puedes agregar más secciones o detalles según sea necesario. Una vez que hayas creado tu currículum en Markdown, puedes subirlo a tu repositorio de GitHub y compartirlo fácilmente con otros.
