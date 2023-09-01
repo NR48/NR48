@@ -1,8 +1,8 @@
 # Nicolas Rivas
 
 ## Información de contacto
-- **Correo Electrónico:** [tu@email.com](mailto:tu@email.com)
-- **LinkedIn:** [Tu perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- **Correo Electrónico:**(mailto:nicoasrivas420@gmail.com)
+- **LinkedIn:** [(https://www.linkedin.com/in/tu-perfil)
 
 ## Resumen
 Soy un [tu profesión o título] con experiencia en [tu área de experiencia]. Mi objetivo es [tu objetivo profesional en una oración].
