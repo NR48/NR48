@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm gay
+I'm gay :flushed:
 
 ## experience 
 
