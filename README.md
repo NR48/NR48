@@ -1,4 +1,4 @@
-# [Tu Nombre]
+# Nicolas Rivas
 
 ## Información de contacto
 - **Correo Electrónico:** [tu@email.com](mailto:tu@email.com)
