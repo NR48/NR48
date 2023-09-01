@@ -1,7 +1,7 @@
 # Nicolas Rivas
 
 ## Información de contacto
-- **Correo Electrónico:**(nicoasrivas420@gmail.com)
+- **Correo Electrónico:** nicoasrivas420@gmail.com
 - **LinkedIn:** [(https://www.linkedin.com/in/tu-perfil)
 
 ## Resumen
