@@ -2,7 +2,7 @@
 
 ## Información de contacto
 - **Correo Electrónico:** nicoasrivas420@gmail.com
-- **LinkedIn:** [(https://www.linkedin.com/in/tu-perfil)
+- **LinkedIn:** https://www.linkedin.com/in/nicol%C3%A1s-rivas-033a31274
 
 ## Resumen
 Soy un [tu profesión o título] con experiencia en [tu área de experiencia]. Mi objetivo es [tu objetivo profesional en una oración].
